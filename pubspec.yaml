@@ -1,0 +1,11 @@
+name: security_showcase
+description: A visual demonstration of common security flaws in programs, and how to fix them
+version: 0.1.0
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+
+dev_dependencies:
+  lints: ^3.0.0
